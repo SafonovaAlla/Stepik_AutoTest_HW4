@@ -25,6 +25,10 @@
     pytest -s -v --language=fr
     
 
-## Часть 2: TODO
+## Часть 2: Сравнить тест на регистрацию самописный и от Selenium IDE
+
+Файл test_opanki_ide.py - от Selenium IDE
+
+Файл test_opanki_my.py - от меня
 
 
